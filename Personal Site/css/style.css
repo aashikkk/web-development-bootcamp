@@ -1,0 +1,184 @@
+.profile-pic {
+    height: 200px;
+    border-radius: 50%;
+    align-items: center;
+}
+
+.football {
+    height: 120px;
+    border-radius: 5px;
+}
+
+.top-container {
+    background-image: url(../images/flat-bg.jpg);
+    position: relative;
+    padding-top: 100px;
+    text-align: center;
+    height: 700px;
+    object-fit: cover;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    color: #3f5b80;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    font-weight: normal;
+    color: #3f5b80;
+}
+
+h3 {
+    color: #3f5b80;
+}
+
+body {
+    font-family: "Merriweather Sans", sans-serif;
+    color: #40514e;
+    text-align: center;
+    margin: 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* .bottom-social {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+} */
+
+a {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+    color: #3f5b80;
+}
+
+.bottom-container {
+    margin-top: 100px;
+    padding-top: 40px;
+    background-color: #cbd3e0;
+    width: 100%;
+}
+
+.copyright {
+    padding: 20px 40px;
+    margin: 0;
+    color: #738181;
+}
+
+.typing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.typing-cat {
+    border-radius: 5px;
+}
+
+.fb-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    width: 4%;
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    gap: 2rem;
+    text-align: left;
+    width: 50%;
+    margin: 100px auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto;
+}
+
+.btn {
+    align-items: center;
+    background-color: initial;
+    background-image: linear-gradient(#464d55, #25292e);
+    border-radius: 8px;
+    border-width: 0;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.05);
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    font-family: expo-brand-demi, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+        "Noto Color Emoji";
+    font-size: 18px;
+    height: 52px;
+    justify-content: center;
+    line-height: 1;
+    margin: 0;
+    outline: none;
+    overflow: hidden;
+    padding: 0 30px;
+    text-align: center;
+    text-decoration: none;
+    transform: translate3d(0, 0, 0);
+    transition: all 150ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.btn:hover {
+    box-shadow: rgba(0, 1, 0, 0.2) 0 2px 8px;
+    opacity: 0.85;
+}
+
+a:hover {
+    opacity: 0.75;
+}
+
+.btn:active {
+    outline: 0;
+}
+
+.btn:focus {
+    box-shadow: rgba(0, 0, 0, 0.5) 0 0 0 3px;
+}
+
+@media (max-width: 420px) {
+    .btn {
+        height: 48px;
+    }
+}
