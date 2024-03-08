@@ -1,8 +1,8 @@
 # The Complete 2023 Web Development Bootcamp
 
-1. Tin Dog - <link>https://aashikkk.github.io/web-development-bootcamp/TinDog/ </link>
-2. Personal Site - https://aashikkk.github.io/web-development-bootcamp/Personal%20Site/
-3. Bootstrap = https://aashikkk.github.io/web-development-bootcamp/Bootstrap/
+1. Tin Dog - [link](https://aashikkk.github.io/web-development-bootcamp/TinDog/)
+2. Personal Site -  [link](https://aashikkk.github.io/web-development-bootcamp/Personal%20Site/)
+3. Bootstrap -  [link](https://aashikkk.github.io/web-development-bootcamp/Bootstrap/)
 
 
 What I learning:
