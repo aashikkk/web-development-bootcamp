@@ -7,13 +7,13 @@
 
 What I learning:
 
-- Be able to build ANY website you want.
+- Be able to build ANY website I want.
 
 - Craft a portfolio of websites to apply for junior developer jobs.
 
-- Build fully-fledged websites and web apps for your startup or business.
+- Able to Build fully-fledged websites and web apps for my startup or business.
 
-- Work as a freelance web developer.
+- Able to Work as a freelance web developer.
 
 - Master backend development with Node
 
