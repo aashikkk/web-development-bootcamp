@@ -7,7 +7,7 @@
 
 What I learning:
 
-- Be able to build ANY website I want.
+- Able to build ANY website I want.
 
 - Craft a portfolio of websites to apply for junior developer jobs.
 
