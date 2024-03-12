@@ -7,15 +7,15 @@ The website simulates a dice game challenge where on every refresh both dice are
 
 ### Player 1 Wins-
 
-<img alt="player1-image" src="imgs/player1.PNG">
+<img alt="player1-image" src="ss/player1.png">
 
 ### Player 2 Wins-
 
-<img alt="player2-image" src="imgs/player2.PNG">
+<img alt="player2-image" src="ss/player2.png">
 
 ### Draw Condition-
 
-<img alt="draw-image" src="imgs/draw.PNG">
+<img alt="draw-image" src="ss/draw.png">
 
 ## Inspiration:
 
