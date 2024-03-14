@@ -3,17 +3,17 @@
 1. Tin Dog - [link](https://aashikkk.github.io/web-development-bootcamp/TinDog/)
 2. Personal Site -  [link](https://aashikkk.github.io/web-development-bootcamp/Personal%20Site/)
 3. Bootstrap -  [link](https://aashikkk.github.io/web-development-bootcamp/Bootstrap/)
-
+4. Dice Challenge - [link](https://aashikkk.github.io/web-development-bootcamp/Dice%20Challenge/)
 
 What I learning:
 
-- Be able to build ANY website you want.
+- Able to build ANY website I want.
 
 - Craft a portfolio of websites to apply for junior developer jobs.
 
-- Build fully-fledged websites and web apps for your startup or business.
+- Able to Build fully-fledged websites and web apps for my startup or business.
 
-- Work as a freelance web developer.
+- Able to Work as a freelance web developer.
 
 - Master backend development with Node
 
