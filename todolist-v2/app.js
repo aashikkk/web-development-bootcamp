@@ -17,7 +17,10 @@ main().catch((err) => {
 });
 
 async function main() {
-    await mongoose.connect("mongodb://127.0.0.1:27017/todolistDB");
+    // await mongoose.connect("mongodb://127.0.0.1:27017/todolistDB");
+    await mongoose.connect(
+        "mongodb+srv://admin-aashik:test123456@cluster0.rghqb6x.mongodb.net/todolistDB"
+    );
 
     mongoose.connection.on("error", (error) => {
         console.error("MongoDB connection error:", error);
