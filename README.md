@@ -7,7 +7,7 @@
 5. Calculator
 6. Todo List-v1 (Arrays to save entries temporarily)
 7. Todo List-v2 (MongoDB to save entries )
-8. Blog website
+8. Blog website - v1 & v2 (Arrays , MongoDB)
 
 What I learning:
 
@@ -23,7 +23,7 @@ What I learning:
 
 - Master frontend development with React
 
-- Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 4, MongoDB.
+- Learn the latest frameworks and technologies, including Javascript ES6, Bootstrap 5, MongoDB.
 
 - Learn professional developer best practices.
 
