@@ -9,7 +9,7 @@
 7. Todo List-v2 (MongoDB to save entries )
 8. Blog website - v1 & v2 (Arrays , MongoDB)
 9. WikiAPI
-10. Secrets Website - Authentication (Register, Login, Logout functionalities with authentication)
+10. Secrets Website - Authentication (Register, Login(FB, Google, Regular), Logout functionalities with authentication)
 
 What I learning:
 
