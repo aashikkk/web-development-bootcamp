@@ -1,11 +1,18 @@
 /* eslint-disable react/prop-types */
 import React, { useState } from "react";
+import AddIcon from "@mui/icons-material/Add";
+import { Fab, Zoom } from "@mui/material";
 
 function CreateArea(props) {
     const [note, setNote] = useState({
         title: "",
         content: "",
     });
+    const [isExpand, setIsExpand] = useState(false);
+
+    function expandNote() {
+        setIsExpand(true);
+    }
 
     function handleNoteChange(event) {
         const { value, name } = event.target;
@@ -29,21 +36,29 @@ function CreateArea(props) {
 
     return (
         <div>
-            <form>
-                <input
-                    name="title"
-                    placeholder="Title"
-                    onChange={handleNoteChange}
-                    value={note.title}
-                />
+            <form className="create-note">
+                {isExpand && (
+                    <input
+                        name="title"
+                        placeholder="Title"
+                        onChange={handleNoteChange}
+                        value={note.title}
+                    />
+                )}
                 <textarea
+                    onClick={expandNote}
                     name="content"
                     placeholder="Take a note..."
-                    rows="3"
+                    rows={isExpand ? 3 : 1}
                     onChange={handleNoteChange}
                     value={note.content}
                 />
-                <button onClick={submitNote}>Add</button>
+
+                <Zoom in={isExpand}>
+                    <Fab onClick={submitNote}>
+                        <AddIcon />
+                    </Fab>
+                </Zoom>
             </form>
         </div>
     );
